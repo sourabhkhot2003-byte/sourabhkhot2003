@@ -1,7 +1,7 @@
 Hi, I'm Sourabh Sunil Khot
 MCA Student, 
 Python Developer,
-Web Technology Enthusiast Vijayapur, Karnataka
+Web Technology Enthusiast, Vijayapur, Karnataka
 Actively seeking entry-level opportunities at Accenture and other tech companies.
 
 Skills
