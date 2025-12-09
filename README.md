@@ -53,3 +53,5 @@ Connect With Me
 
 LinkedIn: https://linkedin.com/in/sourabh-khot-9251b01bb
 Email: sourabhkhot2003@gmail.com
+### 🔹 Image Visibility Enhancement Using Dehazing  
+GitHub Repository: https://github.com/yourusername/image-dehazing-python
