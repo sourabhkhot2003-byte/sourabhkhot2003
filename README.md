@@ -24,7 +24,7 @@ Improved clarity in hazy images for use in surveillance and vision systems
 
 Tech: Python, OpenCV
 
-Project Folder: (Upload soon!)
+Project Folder: 
 
 🔹 Car Sharing Portal
 
@@ -34,7 +34,7 @@ Includes booking system, user dashboard, and authentication
 
 Tech: HTML, CSS, JavaScript, MySQL
 
-Project Folder: (Upload soon!)
+Project Folder: 
 
 Certifications
 
