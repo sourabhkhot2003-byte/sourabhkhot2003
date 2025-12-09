@@ -15,6 +15,7 @@ Database: MySQL
 Tools: Git, VS Code
 
 Projects
+
 🔹 Image Visibility Enhancement Using Dehazing Approach
 
 Implemented Python-based dehazing algorithm using OpenCV
